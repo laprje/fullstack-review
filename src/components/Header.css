@@ -5,9 +5,11 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-}
-
-header img {
+  }
+  header img {
     height: 100%;
     width: auto;
-}
+  }
+  header .logo {
+    margin: 0 auto;
+  }
